@@ -1,0 +1,19 @@
+.box{
+    width: 1400px;
+    height: 200px;
+    border: 0% ;
+   background-color: blue;
+   }
+   .box-2{
+    width: 1400px;
+    height: 200px;
+    border: 0%;
+    background-color: red;
+    background-image: url(../css/image/search.htm);
+   }
+   .box-3{
+ width: 1400px;
+    height: 200px;
+    border: 0%;
+    background-color: green;
+   }
